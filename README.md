@@ -9,7 +9,7 @@ Usage:
 To use the timer, follow these steps:
 
 Choose a target date and time using the date and time pickers provided.
-Click the "Set Timer" button to start the countdown.
+Click the "submit" button to start the countdown.
 Watch the clock count down in real time until the target time is reached.
 Contributing:
 If you're interested in contributing to this project, we welcome your contributions! Here are some ways you can help:
