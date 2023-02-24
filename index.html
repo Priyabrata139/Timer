@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Timer</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="box">
+      <form class="setDateTime">
+        <input
+          type="datetime-local"
+          name="datetime"
+          value="datetime"
+          id="datetime"
+        />
+        <button type="submit" id="submit">submit</button>
+      </form>
+      <table style="width: 80%; height: 3rem">
+        <tr>
+          <td id="">days</td>
+          <td id="">hour</td>
+          <td id="">minute</td>
+          <td id="">second</td>
+        </tr>
+        <tr
+          id="timeRow"
+          style="font-size: larger; font: 500 bold; height: 2rem"
+        >
+          <td id="days"></td>
+          <td id="hour"></td>
+          <td id="minute"></td>
+          <td id="second"></td>
+        </tr>
+      </table>
+    </div>
+  </body>
+  <script src="script.js"></script>
+</html>
