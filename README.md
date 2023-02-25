@@ -30,4 +30,4 @@ HTML
 CSS
 JavaScript
 Contact
-If you have any questions or feedback about this project, feel free to contact us at [insert email or contact information here].
+If you have any questions or feedback about this project, feel free to contact us at [priyabratamaji139@gmail.com].
